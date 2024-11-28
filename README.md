@@ -1,10 +1,11 @@
 <img align="left" width="auto" height="auto" src="doc/images/Logo_90_A.png">
 
-# Ubisoft Mixer - Blender Add-on
+# Mixer - Blender Add-on
 
 </br>
 
-**Mixer is NOT SUPPORTED ANYMORE - it has been archived**
+This project was forked from [ubisoft/mixer](https://github.com/ubisoft/mixer), and the fork is just for  **Project Matrix** team's inhouse development.</br>
+**Won't update recently.**
 
 </br>
 
